@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=GloryMJ)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=MJ)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMJ&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={stylishy62})](https://solved.ac/{handle})
 
